@@ -6,6 +6,7 @@ string name,str;
 int n,a,b,c,d,w,cnt,cpp;
 char x;
 int main(){
+	srand((unsigned int)time(NULL)); 
 	cout<<"学生您好"<<endl;
 	sleep(1);
 	cout<<"请输入你的名字:";
