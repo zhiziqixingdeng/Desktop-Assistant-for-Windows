@@ -139,7 +139,7 @@ int main(){
 				else{
 					cout<<b<<"x"<<c<<"=";
 					cin>>cpp;
-					if(cpp=b*c){
+					if(cpp==b*c){
 						cout<<"正确!"<<endl;
 						cnt++;
 					}
