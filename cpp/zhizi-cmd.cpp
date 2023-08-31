@@ -19,7 +19,7 @@ int main(){
 			system("start student");
 		}
 		else if(str=="end"){
-			cout<<"再见"<<ENDL;
+			cout<<"再见"<<endl;
 		}
 		else{
 			cout<<"错误"<<endl;
